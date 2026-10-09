@@ -4,8 +4,8 @@
 #                     LINUX AUTOMATED BACKUP SYSTEM
 # ==============================================================================
 
-SOURCE_DIR="/home/Arjun/Projects/LinuxBackupSystem"
-BACKUP_DIR="/home/Arjun/LinuxBackups"
+SOURCE_DIR="/home/Projects"
+BACKUP_DIR="/home/Projects/LinuxBackups"
 DATE=$(date +"%Y-%m-%d_%H-%M-%S")
 BACKUP_FILE="backup_$DATE.tar.gz"
 
